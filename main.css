@@ -1,0 +1,23 @@
+
+* {font-family: Arial, Times
+}
+.nav a {    background-color: red;
+            color: white;
+            display: inline-block;
+            padding-right: 10px;
+}
+#about_blue {background-color:#6495ED;
+border: 3px solid black;
+}
+#about_blue ul {color: navy;
+}
+#about_blue li.important {font-weight: bold;
+font-size: 16px
+}
+#about_yellow {background-color: #FFEBCD;
+border: 3px solid black;
+}
+#about_yellow ul {color: orange;
+}
+#about_yellow li.important {font-weight: bold;
+font-size: 16px}
